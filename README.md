@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=agent227)](https://solved.ac/agent227/)
 
 ---
-https://github.com/ing9990/mock_invest_project
