@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=agent227)](https://solved.ac/agent227/)
 
 ---
